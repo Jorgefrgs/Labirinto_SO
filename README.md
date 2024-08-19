@@ -13,7 +13,7 @@
 ### Condição de Término: O jogo continua até que todos os queijos sejam coletados. O jogador com o maior número de queijos ao final do jogo é o vencedor.
 
 # 🛠️ Pré-requisitos
-###Python3 ou superior
+### Python3 ou superior
 
 # 🚀 Iniciando o Jogo
 ### Clone o repositório:
@@ -38,36 +38,3 @@ A pontuação de cada jogador (quantidade de queijos coletados).
 O número total de competições por queijo.
 O número total de competições por células vazias.
 
-# 💡 Exemplo de Execução
-plaintext
-
-Escolha as dimensões NxN do mapa:
-5
-Escolha a quantidade de queijos dispostos pelo mapa:
-3
-Escolha o número de jogadores da rodada:
-4
-
-Mapa inicial:
-X Q X X X
-X X X X X
-X X Q X X
-X X X X X
-X X X Q X
-
-Rodada
-Jogador 1 se moveu para (2, 2)
-Jogador 2 se moveu para (1, 2)
-Jogador 3 se moveu para (3, 3)
-Jogador 4 se moveu para (0, 1)
-Jogador 4 pegou um queijo na posição (0, 1)!
-
-...
-
-Fim do jogo!
-Jogador 1: 1 queijos
-Jogador 2: 0 queijos
-Jogador 3: 1 queijos
-Jogador 4: 1 queijos
-Total de competições por queijo (mutex adquirido): 2
-Total de competições por células vazias: 3
