@@ -13,16 +13,16 @@
 ### Condição de Término: O jogo continua até que todos os queijos sejam coletados. O jogador com o maior número de queijos ao final do jogo é o vencedor.
 
 # 🛠️ Pré-requisitos
-###Python 3.6 ou superior
+###Python3 ou superior
 
 # 🚀 Iniciando o Jogo
 ### Clone o repositório:
-bash
-git clone https://github.com/Jorgefrgs/Labirinto_SO.git
-cd corrida-dos-ratos
+- bash
+- git clone https://github.com/Jorgefrgs/Labirinto_SO.git
+-cd corrida-dos-ratos
 ### Execute o jogo:
-bash
-python3 corrida_dos_ratos.py
+- bash
+- python3 corrida_dos_ratos.py
 ### Siga as instruções no terminal:
 Escolha as dimensões do mapa (NxN).
 Escolha a quantidade de queijos.
@@ -39,6 +39,8 @@ O número total de competições por queijo.
 O número total de competições por células vazias.
 
 # 💡 Exemplo de Execução
+plaintext
+
 Escolha as dimensões NxN do mapa:
 5
 Escolha a quantidade de queijos dispostos pelo mapa:
