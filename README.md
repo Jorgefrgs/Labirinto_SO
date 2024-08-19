@@ -19,7 +19,7 @@
 ### Clone o repositório:
 - bash
 - git clone https://github.com/Jorgefrgs/Labirinto_SO.git
--cd corrida-dos-ratos
+- cd corrida-dos-ratos
 ### Execute o jogo:
 - bash
 - python3 corrida_dos_ratos.py
