@@ -38,3 +38,13 @@ A pontuação de cada jogador (quantidade de queijos coletados).
 O número total de competições por queijo.
 O número total de competições por células vazias.
 
+# Exemplos de resultado
+![image](https://github.com/user-attachments/assets/8dd5d19b-812e-4a9f-aa29-74b5c1762fb7)
+
+![image](https://github.com/user-attachments/assets/e2e5d65a-e492-4fec-8a74-598c05f22b1f)
+
+![image](https://github.com/user-attachments/assets/3690f825-0277-4771-bbce-ed8343166928)
+
+
+
+
